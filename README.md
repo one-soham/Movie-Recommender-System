@@ -1,0 +1,1 @@
+This is a Basic Movie Recommender System made using SKLearn, Streamlit and Pickle libraries. Using an algorithm based on Nearest Neighbours and vectorization, the program recommends movies similar to those you have fed as input.
